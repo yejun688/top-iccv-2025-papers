@@ -8,7 +8,7 @@
 
 ## 👋 hello
 
-Computer Vision and Pattern Recognition is a massive conference. In **2025** alone, **11,239** papers were submitted, and **2,699** were accepted. resulting in an acceptance rate of 24%. I created this repository to help you search for crème de la crème of ICCV publications. If the paper you are looking for is not on my short list, take a peek at the full [list](https://iccv.thecvf.com/Conferences/2025/AcceptedPapers) of accepted papers.
+International Conference on Computer Vision is a massive conference. In **2025** alone, **11,239** papers were submitted, and **2,699** were accepted. resulting in an acceptance rate of 24%. I created this repository to help you search for crème de la crème of ICCV publications. If the paper you are looking for is not on my short list, take a peek at the full [list](https://iccv.thecvf.com/Conferences/2025/AcceptedPapers) of accepted papers.
 
 ## 🗞️ papers
 
