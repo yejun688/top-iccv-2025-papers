@@ -2,7 +2,7 @@
 
 <div align="center">
   <h1 align="center">top ICCV 2025 papers</h1>
-   <a href="https://github.com/SkalskiP/top-cvpr-2025-papers">2025</a>
+   <a href="https://github.com/yejun688/top-iccv-2025-papers">2025</a>
 </div>
 
 
