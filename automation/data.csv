@@ -4,6 +4,7 @@ topic,title,paper,code
 "3D from multi-view and sensors","WIR3D: Visually-Informed and Geometry-Aware 3D Shape Abstraction","2505.04813","https://github.com/threedle/wir3d"
 "Geometric Computer Vision","Forecasting Continuous Non-Conservative Dynamical Systems in SO(3)","2508.07775","https://github.com/bastianlb/forecasting-rotational-dynamics"
 "Geometric Computer Vision","Diving into the Fusion of Monocular Priors for Generalized Stereo Matching","2505.14414","https://github.com/YaoChengTang/Diving-into-the-Fusion-of-Monocular-Priors-for-Generalized-Stereo-Matching"
+"Geometric Computer Vision","RePoseD: Efficient Relative Pose Estimation With Known Depth Information","2501.07742","https://github.com/kocurvik/mdrp"
 "3D Human Pose Estimation","DPoser-X: Diffusion Model as Robust 3D Whole-body Human Pose Prior","2508.00599","https://github.com/moonbow721/DPoser-X"
 "3D head avatar modeling","HairCUP: Hair Compositional Universal Prior for 3D Gaussian Avatars","2507.19481","https://github.com/moonbow721/DPoser-X"
 "3D Scene Understanding","Distilling Diffusion Models to Efficient 3D LiDAR Scene Completion","2412.03515","https://github.com/happyw1nd/ScoreLiDAR"
