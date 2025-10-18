@@ -15,6 +15,7 @@ topic,title,paper,code
 "3D Scene Understanding","SuperDec: 3D Scene Decomposition with Superquadric Primitives","2504.00992","https://github.com/elisabettafedele/superdec"
 "3D Scene Understanding","ForestFormer3D: A Unified Framework for End-to-End Segmentation of Forest LiDAR s3D Point Clouds","2506.16991","https://github.com/SmartForest-no/ForestFormer3D"
 "3D Scene Understanding","GT-Loc: Unifying When and Where in Images Through a Joint Embedding Space","2507.10473","https://github.com/dshatwell23"
+"3D Scene Understanding","Removing Cost Volumes from Optical Flow Estimators","2510.13317","https://github.com/visinf/recover"
 "NeRF","Self-Ensembling Gaussian Splatting for Few-Shot Novel View Synthesis","2411.00144","https://github.com/sailor-z/SE-GS"
 "NeRF","RayZer: A Self-supervised Large View Synthesis Model","2505.00702","https://github.com/hwjiang1510/RayZer"
 "Gaussian Splatting", "EVER: Exact Volumetric Ellipsoid Rendering for Real-time View Synthesis","2410.01804","https://github.com/half-potato/ever_training"
