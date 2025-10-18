@@ -1,3 +1,11 @@
+<!--
+ * @Author: yejun688 1548622388@qq.com
+ * @Date: 2025-09-05 22:34:47
+ * @LastEditors: yejun688 1548622388@qq.com
+ * @LastEditTime: 2025-10-18 15:06:28
+ * @FilePath: /top-cvpr-2023-papers/README.md
+ * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
+-->
 ![visitor badge](https://visitor-badge.laobi.icu/badge?page_id=yejun688.top-iccv-2025-papers)
 
 <div align="center">
@@ -8,7 +16,7 @@
 
 ## 👋 hello
 
-International Conference on Computer Vision is a massive conference. In **2025** alone, **11,239** papers were submitted, and **2,699** were accepted. resulting in an acceptance rate of 24%. Oral Presentation — Top 0.56% (64/11239) of all submissions. I created this repository to help you search for crème de la crème of ICCV publications. If the paper you are looking for is not on my short list, take a peek at the full [list](https://iccv.thecvf.com/Conferences/2025/AcceptedPapers) of accepted papers. Some of the papers’ authors have not posted their work on arXiv or made a GitHub repository available, so the list here may be incomplete or contain errors. We are updating it, and your patience is greatly appreciated. If you want a complete version, please refer to the official repositories [Oral list](https://iccv.thecvf.com/virtual/2025/events/oral).
+International Conference on Computer Vision is a massive conference. In **2025** alone, **11,239** papers were submitted, and **2,699** were accepted. resulting in an acceptance rate of 24%. Oral Presentation — Top 0.56% (64/11239) of all submissions. If you want a complete version, please refer to the official repositories [Oral list](https://iccv.thecvf.com/virtual/2025/events/oral).
 
 ## 🗞️ paperss
 
